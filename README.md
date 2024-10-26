@@ -30,7 +30,8 @@ A lightweight, responsive website template built with HTML5, CSS3, and JavaScrip
 
 1. **Clone the repository**
    ```bash
- git remote add origin https://github.com/PardeshiLina/Syncordis.git
+   git clone https://github.com/PardeshiLina/Syncordis.git
+
    ```
 
 2. **Navigate to project directory**
@@ -47,7 +48,7 @@ A lightweight, responsive website template built with HTML5, CSS3, and JavaScrip
 - **Frontend**
   - HTML5
   - CSS3
-  - JavaScript 
+  - JavaScript (ES6+)
 
 ## 🎨 Customization
 
